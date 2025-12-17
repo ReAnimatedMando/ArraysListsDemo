@@ -30,5 +30,10 @@ class Program
         {
             Console.WriteLine(names[i]); // write i (counter) to the console
         }
+
+        for (int i = names.Length - 1; i >= 0; i--)
+        {
+            Console.WriteLine(names[i]);
+        }
     }
 }
