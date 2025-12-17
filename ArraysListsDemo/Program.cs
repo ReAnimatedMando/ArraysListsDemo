@@ -15,9 +15,20 @@ class Program
         // numbers[3] = 22;
         // numbers[4] = 987;
 
-        foreach (int number in numbers)
+        // foreach (int number in numbers)
+        // {
+        //     Console.WriteLine(number);
+        // }
+        
+        // Arrays have a property called "Length" that shows the number of items in the Array
+        // Console.WriteLine(numbers.Length); // returns length of array
+        // Console.WriteLine(numbers.Length - 1); // returns last index
+
+        var names = new string[] { "Aaron", "Seth", "Cruz" }; // create and initialize array names
+
+        for (int i = 0; i <= names.Length - 1; i++) // starting at index 0, while i is less than or equal to array length - 1 to get indexes. increment by one through every loop iteration
         {
-            Console.WriteLine(number);
+            Console.WriteLine(names[i]); // write i (counter) to the console
         }
     }
 }
