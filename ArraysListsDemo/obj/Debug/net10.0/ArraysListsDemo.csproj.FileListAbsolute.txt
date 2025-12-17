@@ -1,0 +1,15 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\bin\Debug\net10.0\ArraysListsDemo.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\bin\Debug\net10.0\ArraysListsDemo.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\bin\Debug\net10.0\ArraysListsDemo.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\bin\Debug\net10.0\ArraysListsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\bin\Debug\net10.0\ArraysListsDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.sourcelink.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\refint\ArraysListsDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ArraysListsDemo.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ArraysListsDemo\ArraysListsDemo\obj\Debug\net10.0\ref\ArraysListsDemo.dll
